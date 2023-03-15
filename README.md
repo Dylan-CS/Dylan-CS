@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, welcome to dylan chen's Github! 👋
 **My Blog**: https://dylan-cs.github.io/  
 **My Linkdin**: https://www.linkedin.com/in/dylan-chen-684a52249/  
 **My Github repo**: https://github.com/Dylan-CS
