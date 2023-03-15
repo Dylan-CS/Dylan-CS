@@ -1,7 +1,11 @@
 ### Hi there 👋
-My Blog: https://dylan-cs.github.io/  
-My Linkdin: https://www.linkedin.com/in/dylan-chen-684a52249/  
-My Github repo: https://github.com/Dylan-CS
+**My Blog**: https://dylan-cs.github.io/  
+**My Linkdin**: https://www.linkedin.com/in/dylan-chen-684a52249/  
+**My Github repo**: https://github.com/Dylan-CS
+
+
+
+
 <!--
 **Dylan-CS/Dylan-CS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
