@@ -3,10 +3,10 @@
 **My Linkdin**: https://www.linkedin.com/in/dylan-chen-684a52249/  
 **My Github repo**: https://github.com/Dylan-CS
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=itgoyo&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Dylan-CS&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
-![](https://raw.githubusercontent.com/itgoyo/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/itgoyo/github-stats-transparent/output/generated/languages.svg)
+![](https://raw.githubusercontent.com/Dylan-CS/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/Dylan-CS/github-stats-transparent/output/generated/languages.svg)
 
 
 <!--
