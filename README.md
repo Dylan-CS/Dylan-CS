@@ -1,25 +1,23 @@
-### Hi, Welcome o Dylan Chen's Github! 👋
-**My Blog**: https://dylan-cs.github.io/  
-**My Linkdin**: https://www.linkedin.com/in/dylan-chen-684a52249/  
-**My Github repo**: https://github.com/Dylan-CS
+## Hi, Welcome o Dylan Chen's Github! 👋
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ouuan.vercel.app/api?username=Dylan-CS&theme=dark&show_icons=true">
+    <img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=Dylan-CS&show_icons=true">
+</picture>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Dylan-CS&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+I'm **Dylan Chen**, a postgraduate student at HKU.
 
-![](https://raw.githubusercontent.com/Dylan-CS/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/Dylan-CS/github-stats-transparent/output/generated/languages.svg)
+-   :hammer_and_pick: Java / Python / Solidity / C++ / JavaScript / Arduino
+-   :seedling: Taking courses & doing assignments at HKU
+-   :man_office_worker: Looking for a full-time job
+-   :pencil2: Blog: https://dylan-cs.github.io/  
+-   :link: LinkedIn: [www.linkedin.com/Dylan Chen](https://www.linkedin.com/in/dylan-chen-684a52249/)!
+-   :thought_balloon: Ask me anything at [Discussions](https://github.com/dylan-cs/dylan-cs/discussions/new)!
+
+---
+
+<img src="https://raw.githubusercontent.com/dylan-cs/github-stats-transparent/output/generated/overview.svg" alt="GitHub Overview">
+<img src="https://raw.githubusercontent.com/dylan-cs/github-stats-transparent/output/generated/languages.svg" alt="GitHub Languages">
 
 
-<!--
-**Dylan-CS/Dylan-CS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
