@@ -11,7 +11,7 @@ I'm **Dylan Chen**, a postgraduate student at HKU.
 -   :man_office_worker: Looking for a full-time job
 -   :pencil2: Blog: https://dylan-cs.github.io/  
 -   :link: LinkedIn: [www.linkedin.com/Dylan Chen](https://www.linkedin.com/in/dylan-chen-684a52249/)!
--   :thought_balloon: Ask me anything at [Discussions](https://github.com/dylan-cs/dylan-cs/discussions/new)!
+-   :thought_balloon: Ask me anything at [issues](https://github.com/Dylan-CS/Dylan-CS/issues)!
 
 ---
 <div style="display: flex;">
