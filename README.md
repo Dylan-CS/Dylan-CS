@@ -1,4 +1,4 @@
-## Hi, Welcome o Dylan Chen's Github! 👋
+## Hi, Welcome to Dylan Chen's Github! 👋
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ouuan.vercel.app/api?username=Dylan-CS&theme=dark&show_icons=true">
     <img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=Dylan-CS&show_icons=true">
