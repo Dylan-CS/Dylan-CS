@@ -8,7 +8,7 @@ I'm **Dylan Chen**, a postgraduate student at HKU.
 
 -   :hammer_and_pick: Java / Python / Solidity / C++ / JavaScript / Arduino
 -   :seedling: Taking courses & doing assignments at HKU
--   :office_worker: Looking for a full-time job
+-   💼: Looking for a full-time job
 -   :pencil2: Blog: https://dylan-cs.github.io/  
 -   :link: LinkedIn: [www.linkedin.com/Dylan Chen](https://www.linkedin.com/in/dylan-chen-684a52249/)!
 -   :thought_balloon: Ask me anything at [issues](https://github.com/Dylan-CS/Dylan-CS/issues)!
