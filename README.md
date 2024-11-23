@@ -4,9 +4,9 @@
     <img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=Dylan-CS&show_icons=true">
 </picture>
 
-I'm **Dylan Chen**, a postgraduate student at HKU.
+I'm **Dylan Chen**, a solution deliverer.
 
--   :hammer_and_pick: Java / Python / Solidity / C++ / JavaScript / Arduino
+-   :hammer_and_pick: Java / Python / Solidity / C++ / JavaScript 
 -   :seedling: Taking courses & doing assignments at HKU
 -   💼: Looking for a full-time job
 -   :pencil2: Blog: https://dylan-cs.github.io/  
