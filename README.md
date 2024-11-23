@@ -7,8 +7,8 @@
 I'm **Dylan Chen**, a solution deliverer.
 
 -   :hammer_and_pick: Java / Python / Solidity / C++ / JavaScript 
--   :seedling: Taking courses & doing assignments at HKU
--   💼: Looking for a full-time job
+-   :seedling: Fintech | Data | LLM | Web3 | Crypto
+-   💼: Databricks Certified Data Engineer Professional
 -   :pencil2: Blog: https://dylan-cs.github.io/  
 -   :link: LinkedIn: [www.linkedin.com/Dylan Chen](https://www.linkedin.com/in/dylan-chen-684a52249/)!
 -   :thought_balloon: Ask me anything at [issues](https://github.com/Dylan-CS/Dylan-CS/issues)!
