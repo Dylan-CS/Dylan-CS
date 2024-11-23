@@ -1,7 +1,7 @@
 ## Hi, Welcome to Dylan Chen's Github! 👋
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ouuan.vercel.app/api?username=Dylan-CS&theme=dark&show_icons=true&t=12345">
-    <img align="right" height= "40%" width="40%" src="https://github-readme-stats-ouuan.vercel.app/api?username=Dylan-CS&show_icons=true&t=12345&hide_rank=true">
+    <img align="right" height= "30%" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=Dylan-CS&show_icons=true&t=12345&hide_rank=true">
 </picture>
 
 I'm **Dylan Chen**, a solution deliverer.
