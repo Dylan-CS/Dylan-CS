@@ -6,7 +6,7 @@
 
 I'm **Dylan Chen**, a solution deliverer.
 
--   :hammer_and_pick: Java / Python / Solidity / C++ / JavaScript 
+-   :hammer_and_pick: Python / Java / Solidity / C++ / JavaScript 
 -   :seedling: Fintech | Data | LLM | Web3 | Crypto
 -   💼: Databricks Certified Data Engineer Professional
 -   :pencil2: Blog: https://dylan-cs.github.io/  
