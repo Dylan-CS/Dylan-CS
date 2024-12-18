@@ -4,7 +4,7 @@
     <img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=Dylan-CS&show_icons=true&t=12345&&rank_icon=github">
 </picture>
 
-I'm **Dylan Chen**, a solution deliverer.
+I'm **Dylan Chen**, a solution deliveryperson.
 
 -   :hammer_and_pick: Python / Java / Solidity / C++ / JavaScript 
 -   :seedling: Fintech | Data | LLM | Web3 | Crypto
